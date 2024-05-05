@@ -1,0 +1,23 @@
+Vivado Simulator v2023.2.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: E:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot neuron_tb_behav xil_defaultlib.neuron_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 8 for port 'vnew' [C:/Users/braje/Desktop/ML ARCHI/SNN/SNN.srcs/sources_1/new/spike_neuron.v:267]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux
+Compiling module xil_defaultlib.qadd
+Compiling module xil_defaultlib.qmult
+Compiling module xil_defaultlib.current_module
+Compiling module xil_defaultlib.demux
+Compiling module xil_defaultlib.mux2o1
+Compiling module xil_defaultlib.comparator(vth=32'b0)
+Compiling module xil_defaultlib.spike_neuron
+Compiling module xil_defaultlib.neuron_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot neuron_tb_behav

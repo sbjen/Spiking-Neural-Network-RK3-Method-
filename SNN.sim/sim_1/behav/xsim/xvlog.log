@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/braje/Desktop/ML ARCHI/SNN/SNN.srcs/sources_1/new/comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/braje/Desktop/ML ARCHI/SNN/SNN.srcs/sources_1/new/current_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module current_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/braje/Desktop/ML ARCHI/SNN/SNN.srcs/sources_1/new/demux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module demux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/braje/Desktop/ML ARCHI/SNN/SNN.srcs/sources_1/new/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/braje/Desktop/ML ARCHI/SNN/SNN.srcs/sources_1/new/mux2o1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2o1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/braje/Desktop/ML ARCHI/____temp___/qadd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module qadd
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/braje/Desktop/ML ARCHI/____temp___/qmult.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module qmult
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/braje/Desktop/ML ARCHI/SNN/SNN.srcs/sources_1/new/spike_neuron.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spike_neuron
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/braje/Desktop/ML ARCHI/SNN/SNN.srcs/sim_1/new/neuron_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module neuron_tb
